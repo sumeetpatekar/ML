@@ -6,4 +6,5 @@ histogrammar
 scikit-learn
 catboost
 xgboost
+dill
 #-e .
